@@ -15,7 +15,7 @@ This is a website where users are able to enter a GitHub username into a form, s
 To access this project on your local files, you can clone it using these steps
 
 * Open your terminal
-* Use this command to clone $ git clone https://github.com/feddykip/Quotes.git
+* Use this command to clone $ git clone https://github.com/feddykip/Github-search.git
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
