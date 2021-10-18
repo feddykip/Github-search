@@ -1,0 +1,11 @@
+<form (ngSubmit)="submitUsername()">
+    <div class="container">
+      <input type="text" class="form-control" name="username" placeholder="Enter your username" [(ngModel)]="username">
+     <br>
+      <button class="btn btn-outline-success btn-lg"  href="/details"> Search details in the bar</button>
+  
+    </div>
+  </form>
+  <hr>
+  <app-details></app-details>
+
