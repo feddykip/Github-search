@@ -9,6 +9,7 @@ Ferdinand Kiplangat
 ## Description
 
 This is a website where users are able to enter a GitHub username into a form, submit it, And get to see names and descriptions of that person's public repositories. A user can also look for repositories.
+
 ## Setup Instruction
 
 To access this project on your local files, you can clone it using these steps
