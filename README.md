@@ -51,3 +51,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Known Bugs
 No known bugs so far
+
+## Live site
+View live site [here](https://feddykip.github.io/Github-search/)
