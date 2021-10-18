@@ -54,3 +54,6 @@ No known bugs so far
 
 ## Live site
 View live site [here](https://feddykip.github.io/Github-search/)
+
+## License
+Licensed under the [MIT License](LICENSE).
