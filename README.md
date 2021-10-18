@@ -2,7 +2,19 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
 
+## Developer
 
+Ferdinand Kiplangat 
+
+## Description
+
+This is a website where users are able to enter a GitHub username into a form, submit it, And get to see names and descriptions of that person's public repositories. A user can also look for repositories.
+## Setup Instruction
+
+To access this project on your local files, you can clone it using these steps
+
+* Open your terminal
+* Use this command to clone $ git clone https://github.com/feddykip/Quotes.git
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
